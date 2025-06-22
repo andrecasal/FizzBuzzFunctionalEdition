@@ -78,7 +78,7 @@ This repository is part of a programming paradigm showcase:
 1. **[FizzBuzzImperativeEdition](../FizzBuzzImperativeEdition)** - Simple, procedural approach with for loops and if statements
 2. **FizzBuzzFunctionalEdition** (this repo) - Functional programming with streams and predicates
 3. **[FizzBuzzObjectOrientedEdition](../FizzBuzzObjectOrientedEdition)** - Over-engineered enterprise OOP solution with patterns
-4. **[FizzBuzzDeclarativeEdition](../FizzBuzzDeclarativeEdition)** - Configuration-driven, rule-based approach
+4. **[FizzBuzzDeclarativeEdition](../FizzBuzzDeclarativeEdition)** - Declarative approach using expressions and pattern matching
 
 Each demonstrates different programming paradigms and approaches to solving the same problem.
 
