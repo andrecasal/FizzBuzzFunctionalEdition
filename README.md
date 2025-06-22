@@ -75,10 +75,10 @@ java FizzBuzz
 
 This repository is part of a programming paradigm showcase:
 
-1. **FizzBuzzImperativeEdition** - Simple, procedural approach with for loops and if statements
+1. **[FizzBuzzImperativeEdition](../FizzBuzzImperativeEdition)** - Simple, procedural approach with for loops and if statements
 2. **FizzBuzzFunctionalEdition** (this repo) - Functional programming with streams and predicates
-3. **FizzBuzzOOPEdition** - Over-engineered enterprise OOP solution with patterns
-4. **FizzBuzzDeclarativeEdition** - Configuration-driven, rule-based approach
+3. **[FizzBuzzObjectOrientedEdition](../FizzBuzzObjectOrientedEdition)** - Over-engineered enterprise OOP solution with patterns
+4. **[FizzBuzzDeclarativeEdition](../FizzBuzzDeclarativeEdition)** - Configuration-driven, rule-based approach
 
 Each demonstrates different programming paradigms and approaches to solving the same problem.
 
